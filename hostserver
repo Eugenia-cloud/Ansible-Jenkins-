@@ -1,0 +1,2 @@
+[appservers]
+34-201-43-110 ansible_user=ec2-user
